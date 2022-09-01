@@ -9,4 +9,4 @@ Para saber se o clone foi realizado com sucesso:
 Para adicionar novos arquivos no repositorio:
 - digitar: git add . ou git add -A (-A para salvar todas as atualizações).
 - digitar: git commit -m + comentario
-- gigitar: git push origin main
+- digitar: git push origin main
