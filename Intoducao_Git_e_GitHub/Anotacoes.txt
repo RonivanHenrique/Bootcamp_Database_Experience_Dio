@@ -1,0 +1,12 @@
+Para clonar repositorio no pc:
+- copiar o link do repositorio no Git Hub;
+- abrir o Git Bash direto da pasta onde vai ficar ou abrir Git Bassh e acessar a pasta onde sera clonado o repositorio;
+- no Bash digitar: git clone + o link do repositorio e pressionar enter.
+
+Para saber se o clone foi realizado com sucesso:
+- digitar git status.
+
+Para adicionar novos arquivos no repositorio:
+- digitar: git add . ou git add -A (-A para salvar todas as atualizações).
+- digitar: git commit -m + comentario
+- gigitar: git push origin main
